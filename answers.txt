@@ -11,4 +11,13 @@ We need to establish what we want to get done and lay out a concrete plan.
  A daily standup is a quick meeting telling everyone what u did the day before. 
  This can include any blockers or impediments stopping your productivity. A sprint review meeting is done at the end of each sprint. 
  The purpose is to gain feedback and discuss additional work.
-  
+
+ 
+ d)
+ Epic: This is a large amount of work that would be worked on in the course of the Sprint
+
+Story: Since the Epic is such a massive body of work we need to break it down into manageable bite sized pieces 
+
+Bugs: This is a problem or issue that happens during a Sprint and needs to be taken care of before progressing further. 
+
+Tasks: This a job we must complete with everyone on the team and is often technical.
