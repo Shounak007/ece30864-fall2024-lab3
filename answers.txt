@@ -4,4 +4,11 @@ AGILE has timely delivery and is helpful to document software whereas cons inclu
 b)
  The project manager defines the project’s scope gives time estimates and focuses on completing tasks with the highest priority whist a 
  scrum master focuses on leading the sprint planning and coaching the product owner
- 
+c)
+The three types of meetings in sprints include sprint planning, daily standup meeting and sprint review meeting. 
+The sprint planning is used to determine the direction your team will take during a span of 1 or 2 weeks. 
+We need to establish what we want to get done and lay out a concrete plan.
+ A daily standup is a quick meeting telling everyone what u did the day before. 
+ This can include any blockers or impediments stopping your productivity. A sprint review meeting is done at the end of each sprint. 
+ The purpose is to gain feedback and discuss additional work.
+  
