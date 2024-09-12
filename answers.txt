@@ -1,0 +1,3 @@
+a)
+AGILE has timely delivery and is helpful to document software whereas cons include shifting goals which AGILE cannot keep up with nor the
+ predictability especially as there are more engineers working on the same project
