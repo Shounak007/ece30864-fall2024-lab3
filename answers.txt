@@ -1,3 +1,7 @@
 a)
 AGILE has timely delivery and is helpful to document software whereas cons include shifting goals which AGILE cannot keep up with nor the
  predictability especially as there are more engineers working on the same project
+b)
+ The project manager defines the project’s scope gives time estimates and focuses on completing tasks with the highest priority whist a 
+ scrum master focuses on leading the sprint planning and coaching the product owner
+ 
